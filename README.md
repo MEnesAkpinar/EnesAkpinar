@@ -1,7 +1,7 @@
 <p align="center">
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Enes </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Enes </h1>
 <h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
 
 </p>
