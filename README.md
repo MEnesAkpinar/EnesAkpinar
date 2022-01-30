@@ -37,11 +37,11 @@
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="45"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy - Wikipedia" height="45"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="35"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="30"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="SciPy and NumPy - Full Stack Python" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly - Wikipedia" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://rs.devoteam.com/wp-content/uploads/sites/14/2021/02/Copy-of-tableaulogo_highres.png" alt="Salesforce - Devoteam Serbia" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://rs.devoteam.com/wp-content/uploads/sites/14/2021/02/Copy-of-tableaulogo_highres.png" alt="Salesforce - Devoteam Serbia" height="35"/> </a>
 
 
 ## Languages
