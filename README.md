@@ -2,7 +2,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Enes </h1>
-<h3 align="center">Data Analyst | Data Engineer | Data Scientist</h3>
+<h3 align="center">Junior Data Analyst</h3>
 
 </p>
 <br>
@@ -10,8 +10,8 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Focus-Data%20Analytic-2bbc8a" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-2bbc8a" />
-  <img src="https://img.shields.io/badge/Lives-Warsaw-2bbc8a" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Visualization-2bbc8a" />
+  <img src="https://img.shields.io/badge/Lives-Warsaw/Poland-2bbc8a" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkish-2bbc8a" />
 </p>
 
@@ -29,9 +29,9 @@
 </p>
 <hr>
 
-✔ I’m open to work for **Data Analyst** and **Data Engineer**<br>
+✔ I’m open to work for **Data Analyst**<br>
 ✔ I’m currently learning about **Machine Learning & Deep Learning**<br>
-✔ I’m looking to collaborate with any **Open - Source Data Science Projects**<br>
+✔ I’m looking to collaborate with any **Open - Source Data Analysis Projects**<br>
 
 
 <hr>
